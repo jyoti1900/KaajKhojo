@@ -1,13 +1,13 @@
-# 🚀 Kaajkhojo
+# 🚀 KaajKhojo
 
-A **full-stack Kaajkhojo web application** built using the **MERN stack**, designed to connect **job seekers** and **recruiters** with modern hiring features such as **real-time chat**, **video interviews**, and **role-based dashboards**.
+A **full-stack KaajKhojo web application** built using the **MERN stack**, designed to connect **job seekers** and **recruiters** with modern hiring features such as **real-time chat**, **video interviews**, and **role-based dashboards**.
 
 ---
 
 ## 📌 Project Motivation
 
 Traditional job portals lack real-time communication, transparency, and smart filtering.  
-**Kaajkhojo** aims to simplify and modernize recruitment by enabling:
+**KaajKhojo** aims to simplify and modernize recruitment by enabling:
 
 - Faster candidate–recruiter interaction  
 - Secure authentication and role-based access  
@@ -87,7 +87,7 @@ Traditional job portals lack real-time communication, transparency, and smart fi
 
 ## 📂 Project Structure
 ```bash
-Kaajkhojo/
+KaajKhojo/
 │
 ├── backend/
 │ ├── controllers/
@@ -205,7 +205,7 @@ CLIENT_URL=http://localhost:3000
 
 
 ## 📜 Conclusion
-Kaajkhojo – provides a modern, secure, and efficient recruitment solution by integrating real-time communication, video interviews, and smart job management into a single platform.
+KaajKhojo – provides a modern, secure, and efficient recruitment solution by integrating real-time communication, video interviews, and smart job management into a single platform.
 
 ## 👨‍💻 Developed By
 - **Jyotipriya Das** 👉 Project Lead & Backend Development
