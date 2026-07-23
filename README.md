@@ -1,6 +1,6 @@
-# 🚀 Smart Job Portal – Kaajkhojo
+# 🚀 Kaajkhojo
 
-A **full-stack Smart Job Portal web application** built using the **MERN stack**, designed to connect **job seekers** and **recruiters** with modern hiring features such as **real-time chat**, **video interviews**, and **role-based dashboards**.
+A **full-stack Kaajkhojo web application** built using the **MERN stack**, designed to connect **job seekers** and **recruiters** with modern hiring features such as **real-time chat**, **video interviews**, and **role-based dashboards**.
 
 ---
 
@@ -87,7 +87,7 @@ Traditional job portals lack real-time communication, transparency, and smart fi
 
 ## 📂 Project Structure
 ```bash
-Smart-Job-Portal/
+Kaajkhojo/
 │
 ├── backend/
 │ ├── controllers/
@@ -205,13 +205,10 @@ CLIENT_URL=http://localhost:3000
 
 
 ## 📜 Conclusion
-Kaajkhojo – Smart Job Portal provides a modern, secure, and efficient recruitment solution by integrating real-time communication, video interviews, and smart job management into a single platform.
+Kaajkhojo – provides a modern, secure, and efficient recruitment solution by integrating real-time communication, video interviews, and smart job management into a single platform.
 
 ## 👨‍💻 Developed By
 - **Jyotipriya Das** 👉 Project Lead & Backend Development
 - **Sayan Pal** 👉 Frontend Development (All Section - Testing and Debugging)
 - **Indrajit Sahu** 👉 Frontend Development (User, Recruiter Section)
 - **Hasanoor Zaman** 👉 Frontend Development (Admin Section)
-
-## 📖 Read More
-- [Smart Job Portal Documentation](https://github.com/jyoti1900/Smart-Job-Portal/blob/main/Documanetation/Smart_Job_Portal_Documanetation.pdf)
