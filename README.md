@@ -460,14 +460,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Developed By
-- **Jyotipriya Das** 👉 Project Lead & Backend Development
-- **Sayan Pal** 👉 Frontend Development (All Section - Testing and Debugging)
-- **Indrajit Sahu** 👉 Frontend Development (User, Recruiter Section)
-- **Hasanoor Zaman** 👉 Frontend Development (Admin Section)
-
----
-
 <div align="center">
 
 ⭐ If you found this project useful, consider giving it a **Star** on GitHub!
