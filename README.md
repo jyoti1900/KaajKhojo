@@ -28,79 +28,50 @@ The application integrates **Socket.IO** for real-time messaging and **WebRTC** 
 
 # 💡 Project Motivation
 
-Traditional job portals often suffer from delayed communication, disconnected interview workflows, and limited recruiter–candidate interaction.
-
-KaajKhojo addresses these challenges by providing:
-
-- Real-time communication
-- Integrated video interviews
-- Secure authentication
-- Centralized job management
-- Role-based dashboards
-- Scalable cloud-ready architecture
-
----
+| Challenge | Solution |
+|-----------|----------|
+| Delayed recruiter–candidate communication | 💬 Real-time messaging |
+| Disconnected interview workflow | 🎥 Integrated WebRTC video interviews |
+| Weak authentication mechanisms | 🔐 Secure JWT-based authentication |
+| Scattered recruitment process | 📋 Centralized job management |
+| Limited role management | 👥 Role-based dashboards |
+| Scalability concerns | ☁️ Cloud-ready architecture |
 
 # 🎯 Objectives
 
-- Build a centralized recruitment platform
-- Improve recruiter and candidate communication
-- Enable secure authentication and authorization
-- Provide responsive and scalable architecture
-- Reduce hiring turnaround time
-- Enhance user experience with modern technologies
+| Objective | Description |
+|-----------|-------------|
+| 📌 Centralized Platform | Build a unified recruitment system |
+| 💬 Better Communication | Improve recruiter and candidate interaction |
+| 🔐 Secure Authentication | Enable authentication and authorization |
+| ⚡ Scalable Architecture | Develop a responsive, scalable application |
+| ⏱ Faster Hiring | Reduce recruitment turnaround time |
+| 😊 Better User Experience | Deliver a modern and intuitive interface |
 
----
 
 # ✨ Features
 
-## 👤 Job Seeker
-
-- User Registration & Login
-- Profile Management
-- Resume Upload
-- Browse Jobs
-- Search & Filter Jobs
-- Apply for Jobs
-- Application Tracking
-- Real-Time Chat
-- Video Interviews
-
----
-
-## 🏢 Recruiter
-
-- Recruiter Registration
-- Company Profile Management
-- Create Job Listings
-- Edit/Delete Jobs
-- View Applicants
-- Shortlist Candidates
-- Chat with Candidates
-- Conduct Video Interviews
-
----
-
-## 🛡 Admin
-
-- Dashboard
-- Manage Users
-- Manage Recruiters
-- Moderate Job Posts
-- Manage Applications
-- Platform Monitoring
-
----
+| 👤 Job Seeker | 🏢 Recruiter | 🛡 Admin |
+|---------------|--------------|----------|
+| ✅ User Registration & Login | ✅ Recruiter Registration | ✅ Dashboard |
+| ✅ Profile Management | ✅ Company Profile Management | ✅ Manage Users |
+| ✅ Resume Upload | ✅ Create Job Listings | ✅ Manage Recruiters |
+| ✅ Browse Jobs | ✅ Edit/Delete Jobs | ✅ Moderate Job Posts |
+| ✅ Search & Filter Jobs | ✅ View Applicants | ✅ Manage Applications |
+| ✅ Apply for Jobs | ✅ Shortlist Candidates | ✅ Platform Monitoring |
+| ✅ Application Tracking | ✅ Chat with Candidates | |
+| ✅ Real-Time Chat | ✅ Conduct Video Interviews | |
+| ✅ Video Interviews | | |
 
 # 💬 Real-Time Communication
 
-The platform supports modern recruiter–candidate interaction through:
-
-- Socket.IO Live Chat
-- WebRTC Video Calling
-- Secure Peer-to-Peer Communication
-- Instant Notifications
-- Chat Access After Application Approval
+| Feature | Description |
+|---------|-------------|
+| 💬 Socket.IO Live Chat | Instant recruiter–candidate messaging |
+| 🎥 WebRTC Video Calling | Browser-based video interviews |
+| 🔒 Secure Peer-to-Peer Communication | Encrypted direct communication |
+| 🔔 Instant Notifications | Real-time updates and alerts |
+| ✅ Chat After Application Approval | Messaging enabled after recruiter approval |
 
 ---
 
@@ -264,74 +235,75 @@ Backend : http://localhost:8080
 
 # 🔐 Authentication & Security
 
-- JWT Authentication
-- Express Sessions
-- Role-Based Authorization
-- Protected API Routes
-- Password Hashing
-- Input Validation
-- Secure File Uploads
-- Environment Variable Protection
-
----
+| Security Feature | Description |
+|------------------|-------------|
+| 🔑 JWT Authentication | Secure user authentication using JSON Web Tokens |
+| 🛡 Express Sessions | Session management for authenticated users |
+| 👥 Role-Based Authorization | Access control for Admin, Recruiter, and Job Seeker |
+| 🔒 Protected API Routes | Restricts unauthorized API access |
+| 🔐 Password Hashing | Encrypts user passwords before storage |
+| ✅ Input Validation | Validates incoming user data |
+| 📂 Secure File Uploads | Safely uploads resumes and documents |
+| ⚙ Environment Variable Protection | Secures sensitive application credentials |
 
 # 📦 API Modules
 
-- Authentication
-- Users
-- Recruiters
-- Jobs
-- Applications
-- Resume Upload
-- Chat
-- Video Interview
-- Admin Dashboard
-
----
+| Module | Description |
+|--------|-------------|
+| 🔐 Authentication | User registration, login, JWT, and session management |
+| 👤 Users | User profile and account management |
+| 🏢 Recruiters | Recruiter profiles and company management |
+| 💼 Jobs | Job creation, updates, and listings |
+| 📄 Applications | Job application submission and tracking |
+| 📎 Resume Upload | Resume upload and document management |
+| 💬 Chat | Real-time recruiter–candidate messaging |
+| 🎥 Video Interview | WebRTC-based online interviews |
+| 📊 Admin Dashboard | Platform monitoring and management |
 
 # ⚡ Performance Optimizations
 
-- Modular MVC Architecture
-- RESTful API Design
-- MongoDB Query Optimization
-- Efficient Socket Connection Handling
-- Lazy Component Loading
-- Optimized React Rendering
-- Scalable Backend Structure
-
----
+| Optimization | Benefit |
+|-------------|---------|
+| 🏗 Modular MVC Architecture | Improves maintainability and scalability |
+| 🔗 RESTful API Design | Efficient and standardized API communication |
+| 🍃 MongoDB Query Optimization | Faster database performance |
+| ⚡ Efficient Socket.IO Handling | Low-latency real-time communication |
+| 🚀 Lazy Component Loading | Faster initial page load |
+| ⚛ Optimized React Rendering | Reduces unnecessary re-renders |
+| ☁️ Scalable Backend Structure | Supports increasing user traffic |
 
 # 🧪 Experimental Results
 
-- Improved recruiter response time using real-time messaging.
-- Reduced dependency on third-party meeting platforms.
-- Increased candidate engagement through integrated communication.
-- Scalable architecture supporting multiple concurrent users.
-- Simplified recruitment workflow with centralized management.
-
----
+| Result | Impact |
+|--------|--------|
+| 💬 Faster Recruiter Response | Improved communication through real-time chat |
+| 🎥 Integrated Video Interviews | Reduced reliance on third-party meeting tools |
+| 📈 Higher Candidate Engagement | Better interaction with recruiters |
+| ☁️ Scalable Architecture | Supports multiple concurrent users |
+| 📋 Centralized Workflow | Simplified recruitment management |
 
 # 🚧 Challenges Faced
 
-- Implementing peer-to-peer WebRTC communication.
-- Synchronizing Socket.IO events across multiple users.
-- Role-based route protection.
-- Managing secure resume uploads.
-- Integrating real-time communication with application workflows.
-
----
+| Challenge | Solution |
+|-----------|----------|
+| 🎥 WebRTC Peer-to-Peer Communication | Implemented browser-based video calling |
+| 🔄 Socket.IO Synchronization | Managed real-time communication across users |
+| 🔐 Role-Based Route Protection | Secured APIs based on user roles |
+| 📎 Secure Resume Uploads | Implemented protected file upload handling |
+| 🔗 Workflow Integration | Connected chat and interviews with job applications |
 
 # 🚀 Future Enhancements
 
-- AI Job Recommendation System
-- Email Notifications
-- Push Notifications
-- Analytics Dashboard
-- Interview Scheduling
-- Docker & Kubernetes Deployment
-- CI/CD Pipeline
+| Feature | Description |
+|---------|-------------|
+| 🤖 AI Job Recommendation | Personalized job suggestions |
+| 📧 Email Notifications | Automated email updates |
+| 🔔 Push Notifications | Real-time browser notifications |
+| 📊 Analytics Dashboard | Recruitment insights and reporting |
+| 📅 Interview Scheduling | Built-in interview planner |
+| 🐳 Docker & Kubernetes | Container orchestration and scalability |
+| ⚙ CI/CD Pipeline | Automated build, testing, and deployment |
 
----
 ---
 
 # 👨‍💻 Development Team
