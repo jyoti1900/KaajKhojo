@@ -1,5 +1,7 @@
-<div align="center">
+
 <font face="Times New Roman">
+<div align="center">
+
 # 💼 KaajKhojo
 
 ### Smart Job Portal & Recruitment Platform
@@ -512,5 +514,6 @@ This project is licensed under the **MIT License**.
 
 ⭐ If you found this project useful, consider giving it a **Star** on GitHub!
 
-</font>
+
 </div>
+</font>
