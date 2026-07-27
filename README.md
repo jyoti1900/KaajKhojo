@@ -153,8 +153,6 @@ The platform supports modern recruiter–candidate interaction through:
   <img src="Images/System architech.jpeg" alt="KaajKhojo System Architecture" width="100%">
 </p>
 
-KaajKhojo follows a modern **MERN Stack** architecture with **React.js** for the frontend, **Express.js** and **Node.js** for backend services, **MongoDB Atlas** as the cloud database, **Socket.IO** for real-time messaging, **WebRTC** for video interviews, and **JWT** for secure authentication and authorization.
-
 ---
 
 # 📁 Project Structure
