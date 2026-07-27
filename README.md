@@ -285,7 +285,6 @@ Backend : http://localhost:8080
 - Resume Upload
 - Chat
 - Video Interview
-- Notifications
 - Admin Dashboard
 
 ---
@@ -325,13 +324,10 @@ Backend : http://localhost:8080
 # 🚀 Future Enhancements
 
 - AI Job Recommendation System
-- Resume Parsing with AI
 - Email Notifications
 - Push Notifications
 - Analytics Dashboard
 - Interview Scheduling
-- Online Coding Assessments
-- Mobile Application (React Native)
 - Docker & Kubernetes Deployment
 - CI/CD Pipeline
 
