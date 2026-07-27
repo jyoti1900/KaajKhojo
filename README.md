@@ -150,7 +150,7 @@ The platform supports modern recruiter–candidate interaction through:
 # 🏗️ System Architecture
 
 <p align="center">
-  <img src="Images/Architecture/SystemArchitecture.png" alt="KaajKhojo System Architecture" width="100%">
+  <img src="Images/System architech.jpeg" alt="KaajKhojo System Architecture" width="100%">
 </p>
 
 ---
