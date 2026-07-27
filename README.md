@@ -18,34 +18,6 @@ A modern **MERN Stack Recruitment Platform** that connects **job seekers**, **re
 
 </div>
 
----
-
-# 📑 Table of Contents
-
-- Overview
-- Project Motivation
-- Objectives
-- Features
-- User Roles
-- Tech Stack
-- System Architecture
-- Folder Structure
-- Installation
-- Environment Variables
-- Running Locally
-- Authentication & Security
-- Real-Time Communication
-- API Modules
-- Performance Optimizations
-- Challenges
-- Future Enhancements
-- Screenshots
-- Team Members
-- Contributing
-- License
-
----
-
 # 🚀 Overview
 
 KaajKhojo is a full-stack recruitment platform developed using the **MERN Stack** to simplify and modernize the hiring process. The platform enables recruiters to post job openings, manage applications, and conduct interviews, while job seekers can create professional profiles, apply for jobs, and communicate directly with recruiters.
