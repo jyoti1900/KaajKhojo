@@ -1,8 +1,5 @@
-
-<div style="font-family:'Times New Roman';">
-
 <div align="center">
-
+<div style="font-family:'Times New Roman';">
 # 💼 KaajKhojo
 
 ### Smart Job Portal & Recruitment Platform
