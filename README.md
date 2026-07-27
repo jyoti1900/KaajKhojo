@@ -147,28 +147,11 @@ The platform supports modern recruiter–candidate interaction through:
 
 ---
 
-# 🏗 System Architecture
+# 🏗️ System Architecture
 
-```text
-                     Users
-                         │
-         ┌───────────────┼───────────────┐
-         ▼               ▼               ▼
-   Job Seekers      Recruiters        Admin
-         │               │               │
-         └───────────────┼───────────────┘
-                         │
-                    React Frontend
-                         │
-                    REST API Calls
-                         │
-                 Express.js Server
-                         │
-      ┌──────────────────┼──────────────────┐
-      ▼                  ▼                  ▼
- MongoDB Atlas      Socket.IO          WebRTC
-    Database        Live Chat      Video Calling
-```
+<p align="center">
+  <img src="Images/Architecture/SystemArchitecture.png" alt="KaajKhojo System Architecture" width="100%">
+</p>
 
 ---
 
@@ -380,12 +363,6 @@ Backend : http://localhost:8080
 - CI/CD Pipeline
 
 ---
-
-# 🏗️ System Architecture
-
-<p align="center">
-  <img src="Images/Architecture/SystemArchitecture.png" alt="KaajKhojo System Architecture" width="100%">
-</p>
 
 KaajKhojo follows a modern **MERN Stack** architecture with **React.js** for the frontend, **Express.js** and **Node.js** for backend services, **MongoDB Atlas** as the cloud database, **Socket.IO** for real-time messaging, **WebRTC** for video interviews, and **JWT** for secure authentication and authorization.
 
