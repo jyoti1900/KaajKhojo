@@ -141,8 +141,6 @@ git clone https://github.com/jyoti1900/KaajKhojo.git
 cd KaajKhojo
 ```
 
----
-
 ## Install Backend
 
 ```bash
@@ -150,8 +148,6 @@ cd backend
 
 npm install
 ```
-
----
 
 ## Install Frontend
 
@@ -211,8 +207,6 @@ cd backend
 
 npm start
 ```
-
----
 
 ### Frontend
 
