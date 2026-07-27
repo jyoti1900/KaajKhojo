@@ -94,7 +94,7 @@ The application integrates **Socket.IO** for real-time messaging and **WebRTC** 
 # 🏗️ System Architecture
 
 <p align="center">
-  <img src="Images/System architech.jpeg" alt="KaajKhojo System Architecture" width="100%">
+  <img src="KaajKhojo System Architecture.png" alt="KaajKhojo System Architecture" width="100%">
 </p>
 
 ---
