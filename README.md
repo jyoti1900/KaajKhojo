@@ -1,5 +1,4 @@
 
-<font face="Times New Roman">
 <div align="center">
 
 # 💼 KaajKhojo
@@ -516,4 +515,3 @@ This project is licensed under the **MIT License**.
 
 
 </div>
-</font>
