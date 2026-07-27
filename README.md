@@ -332,7 +332,7 @@ Backend : http://localhost:8080
 - CI/CD Pipeline
 
 ---
-
+```
 # 📸 Application Screenshots
 
 ## 🏠 Landing Page
@@ -424,6 +424,7 @@ Backend : http://localhost:8080
 </p>
 
 ---
+```
 ---
 
 # 👨‍💻 Development Team
