@@ -381,32 +381,181 @@ Backend : http://localhost:8080
 
 ---
 
-# 📸 Screenshots
+# 🏗️ System Architecture
 
-```
-Add screenshots here
+<p align="center">
+  <img src="Images/Architecture/SystemArchitecture.png" alt="KaajKhojo System Architecture" width="100%">
+</p>
 
-Landing Page
+KaajKhojo follows a modern **MERN Stack** architecture with **React.js** for the frontend, **Express.js** and **Node.js** for backend services, **MongoDB Atlas** as the cloud database, **Socket.IO** for real-time messaging, **WebRTC** for video interviews, and **JWT** for secure authentication and authorization.
 
-Login
+---
 
-Job Dashboard
+# 📸 Application Screenshots
 
-Recruiter Dashboard
+## 🏠 Landing Page
 
-Admin Dashboard
+<p align="center">
+  <img src="Images/User/Home.png" alt="Landing Page" width="90%">
+</p>
 
-Job Details
+---
 
-Application Page
+## 🔐 Login Page
 
-Chat
+<p align="center">
+  <img src="Images/User/Login.png" alt="Login Page" width="90%">
+</p>
 
-Video Interview
+---
 
-Profile
-```
+## 📝 Register Page
 
+<p align="center">
+  <img src="Images/User/Register.png" alt="Register Page" width="90%">
+</p>
+
+---
+
+## 👤 User Dashboard
+
+<p align="center">
+  <img src="Images/User/Dashboard.png" alt="User Dashboard" width="90%">
+</p>
+
+---
+
+## 👤 User Profile
+
+<p align="center">
+  <img src="Images/User/Profile.png" alt="User Profile" width="90%">
+</p>
+
+---
+
+## 💼 Job Listing
+
+<p align="center">
+  <img src="Images/User/JobList.png" alt="Job List" width="90%">
+</p>
+
+---
+
+## 📄 Job Details
+
+<p align="center">
+  <img src="Images/User/JobDetails.png" alt="Job Details" width="90%">
+</p>
+
+---
+
+## 📤 Apply Job
+
+<p align="center">
+  <img src="Images/User/ApplyJob.png" alt="Apply Job" width="90%">
+</p>
+
+---
+
+## 💬 Real-Time Chat
+
+<p align="center">
+  <img src="Images/User/Chat.png" alt="Chat" width="90%">
+</p>
+
+---
+
+## 🎥 Video Interview
+
+<p align="center">
+  <img src="Images/User/VideoInterview.png" alt="Video Interview" width="90%">
+</p>
+
+---
+
+# 🏢 Recruiter Module
+
+## 📊 Recruiter Dashboard
+
+<p align="center">
+  <img src="Images/Recruiter/Dashboard.png" alt="Recruiter Dashboard" width="90%">
+</p>
+
+---
+
+## 🏢 Company Profile
+
+<p align="center">
+  <img src="Images/Recruiter/CompanyProfile.png" alt="Company Profile" width="90%">
+</p>
+
+---
+
+## ➕ Create Job
+
+<p align="center">
+  <img src="Images/Recruiter/CreateJob.png" alt="Create Job" width="90%">
+</p>
+
+---
+
+## 📝 Manage Jobs
+
+<p align="center">
+  <img src="Images/Recruiter/ManageJobs.png" alt="Manage Jobs" width="90%">
+</p>
+
+---
+
+## 👥 Applicants
+
+<p align="center">
+  <img src="Images/Recruiter/Applicants.png" alt="Applicants" width="90%">
+</p>
+
+---
+
+# 🛡️ Admin Module
+
+## 📈 Admin Dashboard
+
+<p align="center">
+  <img src="Images/Admin/Dashboard.png" alt="Admin Dashboard" width="90%">
+</p>
+
+---
+
+## 👤 User Management
+
+<p align="center">
+  <img src="Images/Admin/Users.png" alt="Users" width="90%">
+</p>
+
+---
+
+## 🏢 Recruiter Management
+
+<p align="center">
+  <img src="Images/Admin/Recruiters.png" alt="Recruiters" width="90%">
+</p>
+
+---
+
+## 💼 Job Management
+
+<p align="center">
+  <img src="Images/Admin/Jobs.png" alt="Jobs" width="90%">
+</p>
+
+---
+
+## 📄 Applications
+
+<p align="center">
+  <img src="Images/Admin/Applications.png" alt="Applications" width="90%">
+</p>
+
+---
 ---
 
 # 👨‍💻 Development Team
