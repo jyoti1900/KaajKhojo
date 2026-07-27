@@ -153,6 +153,8 @@ The platform supports modern recruiter–candidate interaction through:
   <img src="Images/System architech.jpeg" alt="KaajKhojo System Architecture" width="100%">
 </p>
 
+KaajKhojo follows a modern **MERN Stack** architecture with **React.js** for the frontend, **Express.js** and **Node.js** for backend services, **MongoDB Atlas** as the cloud database, **Socket.IO** for real-time messaging, **WebRTC** for video interviews, and **JWT** for secure authentication and authorization.
+
 ---
 
 # 📁 Project Structure
@@ -364,24 +366,30 @@ Backend : http://localhost:8080
 
 ---
 
-KaajKhojo follows a modern **MERN Stack** architecture with **React.js** for the frontend, **Express.js** and **Node.js** for backend services, **MongoDB Atlas** as the cloud database, **Socket.IO** for real-time messaging, **WebRTC** for video interviews, and **JWT** for secure authentication and authorization.
-
----
-
 # 📸 Application Screenshots
 
 ## 🏠 Landing Page
 
 <p align="center">
-  <img src="Images/User/Home.png" alt="Landing Page" width="90%">
+  <img src="Images/Landing Page.jpeg" alt="Landing Page" width="90%">
 </p>
+
+---
+
+## 🔐 Choice Login Page
+
+<p align="center">
+  <img src="Images/Choice Login.jpeg" alt="Login Page" width="90%">
+</p>
+
+---
 
 ---
 
 ## 🔐 Login Page
 
 <p align="center">
-  <img src="Images/User/Login.png" alt="Login Page" width="90%">
+  <img src="Images/Login Page.jpeg" alt="Login Page" width="90%">
 </p>
 
 ---
@@ -389,23 +397,15 @@ KaajKhojo follows a modern **MERN Stack** architecture with **React.js** for the
 ## 📝 Register Page
 
 <p align="center">
-  <img src="Images/User/Register.png" alt="Register Page" width="90%">
+  <img src="Images/Register Page.jpeg" alt="Register Page" width="90%">
 </p>
 
 ---
 
-## 👤 User Dashboard
+## 👤 User Profile & Application Status
 
 <p align="center">
-  <img src="Images/User/Dashboard.png" alt="User Dashboard" width="90%">
-</p>
-
----
-
-## 👤 User Profile
-
-<p align="center">
-  <img src="Images/User/Profile.png" alt="User Profile" width="90%">
+  <img src="Images/User Profile.jpeg" alt="User Profile" width="90%">
 </p>
 
 ---
@@ -413,23 +413,7 @@ KaajKhojo follows a modern **MERN Stack** architecture with **React.js** for the
 ## 💼 Job Listing
 
 <p align="center">
-  <img src="Images/User/JobList.png" alt="Job List" width="90%">
-</p>
-
----
-
-## 📄 Job Details
-
-<p align="center">
-  <img src="Images/User/JobDetails.png" alt="Job Details" width="90%">
-</p>
-
----
-
-## 📤 Apply Job
-
-<p align="center">
-  <img src="Images/User/ApplyJob.png" alt="Apply Job" width="90%">
+  <img src="Images/Job Listing.jpeg" alt="Job List" width="90%">
 </p>
 
 ---
@@ -437,7 +421,7 @@ KaajKhojo follows a modern **MERN Stack** architecture with **React.js** for the
 ## 💬 Real-Time Chat
 
 <p align="center">
-  <img src="Images/User/Chat.png" alt="Chat" width="90%">
+  <img src="Images/Chat.jpeg" alt="Chat" width="90%">
 </p>
 
 ---
@@ -445,91 +429,31 @@ KaajKhojo follows a modern **MERN Stack** architecture with **React.js** for the
 ## 🎥 Video Interview
 
 <p align="center">
-  <img src="Images/User/VideoInterview.png" alt="Video Interview" width="90%">
+  <img src="Images/video Interview.jpeg" alt="Video Interview" width="90%">
 </p>
 
 ---
-
-# 🏢 Recruiter Module
 
 ## 📊 Recruiter Dashboard
 
 <p align="center">
-  <img src="Images/Recruiter/Dashboard.png" alt="Recruiter Dashboard" width="90%">
+  <img src="Images/Recruiter Dashboard.jpeg" alt="Recruiter Dashboard" width="90%">
 </p>
 
 ---
 
-## 🏢 Company Profile
+## 🏢 Recruiter Profile
 
 <p align="center">
-  <img src="Images/Recruiter/CompanyProfile.png" alt="Company Profile" width="90%">
+  <img src="Images/Recruiter Profile.jpeg" alt="Company Profile" width="90%">
 </p>
 
 ---
-
-## ➕ Create Job
-
-<p align="center">
-  <img src="Images/Recruiter/CreateJob.png" alt="Create Job" width="90%">
-</p>
-
----
-
-## 📝 Manage Jobs
-
-<p align="center">
-  <img src="Images/Recruiter/ManageJobs.png" alt="Manage Jobs" width="90%">
-</p>
-
----
-
-## 👥 Applicants
-
-<p align="center">
-  <img src="Images/Recruiter/Applicants.png" alt="Applicants" width="90%">
-</p>
-
----
-
-# 🛡️ Admin Module
 
 ## 📈 Admin Dashboard
 
 <p align="center">
-  <img src="Images/Admin/Dashboard.png" alt="Admin Dashboard" width="90%">
-</p>
-
----
-
-## 👤 User Management
-
-<p align="center">
-  <img src="Images/Admin/Users.png" alt="Users" width="90%">
-</p>
-
----
-
-## 🏢 Recruiter Management
-
-<p align="center">
-  <img src="Images/Admin/Recruiters.png" alt="Recruiters" width="90%">
-</p>
-
----
-
-## 💼 Job Management
-
-<p align="center">
-  <img src="Images/Admin/Jobs.png" alt="Jobs" width="90%">
-</p>
-
----
-
-## 📄 Applications
-
-<p align="center">
-  <img src="Images/Admin/Applications.png" alt="Applications" width="90%">
+  <img src="Images/Admin Dashboard.jpeg" alt="Admin Dashboard" width="90%">
 </p>
 
 ---
